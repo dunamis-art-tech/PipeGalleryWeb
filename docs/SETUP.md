@@ -56,4 +56,4 @@ src/
 - ✅ Ready for deployment
 - 📦 Deployed: [GitHub Repository](https://github.com/dunamis-art-tech/PipeGalleryWeb)
 
-For detailed setup instructions, see STORAGE_SETUP.md
+For detailed architecture and technical planning, see Planning.md and ARCHITECTURE.md
