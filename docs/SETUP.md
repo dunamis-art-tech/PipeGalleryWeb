@@ -251,4 +251,4 @@ src/
 
 ## 📚 Additional Documentation
 
-For detailed architecture and technical planning, see **Planning.md** and **ARCHITECTURE.md**
+For detailed architecture and technical planning, see **Planning.md**
