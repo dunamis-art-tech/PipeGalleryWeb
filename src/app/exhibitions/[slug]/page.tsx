@@ -17,8 +17,7 @@ export async function generateMetadata({ params }: ExhibitionDetailPageProps): P
 
 export default async function ExhibitionDetailPage({ params }: ExhibitionDetailPageProps) {
   const { slug } = await params;
-  // TODO: Fetch exhibition data by slug
-  // For now, just show placeholder
+  // Placeholder for exhibition data
   
   return (
     <div className="container mx-auto px-4 py-8">

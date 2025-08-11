@@ -32,8 +32,7 @@ export default function AdminDashboard() {
   });
 
   useEffect(() => {
-    // TODO: Load actual stats from API
-    // For now, just mock data
+    // Mock data for demo
     setStats({
       artists: 12,
       artworks: 48,

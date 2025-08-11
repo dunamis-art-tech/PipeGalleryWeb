@@ -10,7 +10,6 @@ export default function LoginForm() {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Implement proper authentication after deployment
     alert('로그인 기능은 향후 구현될 예정입니다.');
   };
 

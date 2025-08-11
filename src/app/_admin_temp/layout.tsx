@@ -12,7 +12,6 @@ export default function AdminLayout({ children }: AdminLayoutProps) {
 
 function AdminLayoutContent({ children }: { children: ReactNode }) {
   const handleSignOut = () => {
-    // TODO: Implement proper logout after deployment
     alert('로그아웃 기능은 향후 구현될 예정입니다.');
   };
 
